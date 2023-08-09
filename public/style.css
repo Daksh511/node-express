@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(28, 91, 131);
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+input{
+    background-color: rgb(28, 91, 131);
+    width: 70px;
+}
